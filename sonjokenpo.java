@@ -13,6 +13,7 @@ package courjava;
 			Scanner leitor = new Scanner(System.in);
 			Random gerador =new Random();
 			System.out.println("=====jokenpo======");
+		        System.out.println("Computer et User");
 			System.out.println("joueur:");
 			
 			

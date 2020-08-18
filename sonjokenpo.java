@@ -38,9 +38,6 @@ package courjava;
 			case 3:
 				System.out.println("Computer choisie tesoura");
 				break;
-			
-			default: 
-	            System.out.println ("Ruim");
 		} 
 			
 			if(nUser == esComputer) {

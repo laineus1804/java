@@ -12,9 +12,15 @@ package courjava;
 		//objetos
 			Scanner leitor = new Scanner(System.in);
 			Random gerador =new Random();
-			System.out.println("=====jokenpo======");
-		        System.out.println("Computer et User");
+			System.out.println("======jokenpo======");
+			System.out.println("Computer et User");
+			System.out.println("===============--=");
+			System.out.println("1.papel");
+			System.out.println("2.pedra");
+			System.out.println("3.tesoura");
+			System.out.println("=================");
 			System.out.println("joueur:");
+			
 			
 			
 			int nUser;

@@ -1,6 +1,6 @@
-### Fondamentale
-Eu sou paul
-Estudante de tecnologie d'informatica, 
+###  java Fondamentale
+ paul
+Estudante de tecnologie d'informatique, 
 Veja a primeira parte em java.
-![](javafondamental/GitHub.jpg)
+![](javafondamental/GgitHub.jpg)
 

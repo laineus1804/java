@@ -2,5 +2,5 @@
  paul
 Estudante de tecnologie d'informatique, 
 Veja a primeira parte em java.
-![](javafondamental/GitHub.jpg)
+![](javafondamental/)
 

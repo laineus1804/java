@@ -2,5 +2,5 @@
 #
 fácil de praticar
 
-![](https://github.com/laineus1804/java/java.png)
+![](https://github.com/laineus1804/java.png)
 

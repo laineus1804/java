@@ -1,5 +1,5 @@
 ###  fundamentos da limguagem java
-fácil de praticar
 #
+fácil de praticar
 ![](java.png)
 

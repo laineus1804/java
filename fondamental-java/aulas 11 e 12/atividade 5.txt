@@ -1,0 +1,11 @@
+Atividade 5: Portfólio
+
+1) Personalizar o arquivo README.md do repositório (java/lógica)
+Título
+Subtítulo
+Imagem
+
+videoaula: https://youtu.be/T70t3mDiwvg
+
+2) Hospedar todo o conteúdo desenvolvido nas aulas (código, txt, pdf, etc)
+   *** Organizar da melhor forma possível

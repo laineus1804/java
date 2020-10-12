@@ -1,0 +1,28 @@
+Desafio: Desenvolvimento do jogo “Pedra – Papel – Tesoura”
+
+Este desafio envolve todos os conceitos estudados até este momento e pode ser resolvido de diversas formas.
+
+Desenvolva o jogo “JoKenPo”, conforme modelo abaixo:
+
+---- JoKenPo ----
+
+1. Pedra
+2. Papel
+3. Tesoura
+Digite a opção desejada:
+
+Jogador escolheu: (exibe a opção que o jogador escolheu)
+Computador escolheu: (computador sorteia uma opção)
+
+VENCEDOR: (compara as opções escolhidas e exibe o vencedor ou declara empate)
+
+____________________________________________________________
+
+Atividade de avaliação:
+Desenvolver uma aplicação em Java (tema livre)
+*** Observações:
+1) Não pode ser um exercício ou exemplo de aula
+2) Não pode existir duas ou mais aplicações iguais na turma
+3) Não pode ser usado nenhum comando, biblioteca ou recurso do java que não foi ensinado em aula.
+
+

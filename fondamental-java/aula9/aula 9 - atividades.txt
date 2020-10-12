@@ -1,0 +1,51 @@
+Atividade 1:
+Desenvolver o jogo do dado conforme exemplo de aula.
+
+<ALT> 201  ╔
+<ALT> 205  ═
+<ALT> 200  ╚
+<ALT> 186  ║
+<ALT> 187  ╗
+<ALT> 9    ○
+<ALT> 188  ╝
+
+╔═══════╗
+║ ○   ○ ║
+║ ○   ○ ║
+║ ○   ○ ║
+╚═══════╝
+╔═══════╗
+║ ○   ○ ║
+║   ○   ║
+║ ○   ○ ║
+╚═══════╝
+╔═══════╗
+║ ○   ○ ║
+║       ║
+║ ○   ○ ║
+╚═══════╝
+╔═══════╗
+║ ○     ║
+║   ○   ║
+║     ○ ║
+╚═══════╝
+╔═══════╗
+║ ○     ║
+║       ║
+║     ○ ║
+╚═══════╝
+╔═══════╗
+║       ║
+║   ○   ║
+║       ║
+╚═══════╝
+
+Atividade 2:
+Desafio Álcool x Gasolina
+site de referência:
+https://ferramentas.doutormultas.com.br/calculadora-alcool-x-gasolina/
+______________________________________________________________________
+Álcool x Gasolina
+Digite o valor do álcool: 2,40
+Digite o valor da gasolina: 3,90
+Abasteça com álcool 
